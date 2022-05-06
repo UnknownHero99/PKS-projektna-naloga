@@ -1,4 +1,4 @@
-þÿÿÿ™###id###VisulizationRootBrowsableId###TargetIdAcknowledgementGroupText-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+þÿÿÿš###id###VisulizationRootBrowsableId###TargetIdAcknowledgementGroupText-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
 ServerName
 PortNumberWindowsDomainNameStationNamePartnerNameNodeNameDisplayNameAcknowledgementModelIdEmailAddressAcknowledgedText
 ComingText	GoingTextCommonAlarmClass	CycleUnit	CycleTimeCommentNumber	ShortName
@@ -12,4 +12,4 @@ ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLim
 StartValue
 LineColor1
 LineColor2OperatableAreaColor
-Visibility###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAuthorFamilyUser-defined ID
+Visibility###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAuthorFamilyUser-defined IDNetwork comment

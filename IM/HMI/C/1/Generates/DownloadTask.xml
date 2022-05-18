@@ -2,15 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.1.0.0"
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    CreationTime="2022-05-17 18:22:01 (UTC)"
-=======
-    CreationTime="2022-05-17 16:38:16 (UTC)"
->>>>>>> Stashed changes
-=======
-    CreationTime="2022-05-18 07:39:12 (UTC)"
->>>>>>> main
+    CreationTime="2022-05-18 12:15:58 (UTC)"
     Runtime="COLORADO"
     RtProjectName="izpitni_projekt_v1_final.HMI_1[TP900 Comfort]"
     RtProjectFolderName="izpitni_projekt_v1_final.HMI_1[TP900 Comfort]"
